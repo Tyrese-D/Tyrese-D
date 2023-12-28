@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Tyrese
 - 👀 I’m interested in web development and fullstack developemnt
 - 💞️ I’m looking to collaborate on many projects within fronted development and fullstack oppotunites
-- 📫 my email it TyreseDieudonne1@gmail.com
+- 📫 my email it TyreseDieudonne1@gmail.com,
+- Check out some of my certifications here-https://www.freecodecamp.org/TyreseDieudonne
+- 
 
 <!---
 Tyrese-D/Tyrese-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
