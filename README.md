@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tyrese
-- 👀 I’m interested in web development and fullstack developemnt, front end development, and web design 
-- 💞️ I am currently building projects that can make impact, and also learning some back end at the moment
+- 💞️ I am currently building projects that can make an impact, and I am also learning some back end at the moment
 - 📫 my email is TyreseDieudonne1@gmail.com,
 - Check out some of my certifications here-https://www.freecodecamp.org/TyreseDieudonne
 - 
